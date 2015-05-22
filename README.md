@@ -26,6 +26,8 @@ password: epicodus
 
 ###Legal
 
+Copyright (c) 2015 Kyle K Bulloch.
+
 This software is licensed under the MIT license.
 
 ------------
