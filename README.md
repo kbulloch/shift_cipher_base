@@ -1,3 +1,34 @@
+#Shift Cipher
+
+Drupal module development assessment for Epicodus
+
+05.22.2015
+
+Kyle Bulloch
+
+###Description
+
+This site is the base site for the [shift cipher custom module](https://github.com/kbulloch/shift_cipher_module).  
+
+###Usernames and Passwords
+
+database>>
+```
+kyle_bulloch_cipher.db
+username: epicodus
+password: epicodus
+```
+site administration>>
+```
+username: epicodus
+password: epicodus
+```
+
+###Legal
+
+This software is licensed under the MIT license.
+
+------------
 
 CONTENTS OF THIS FILE
 ---------------------
