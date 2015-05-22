@@ -14,7 +14,7 @@ This site is the base site for the [shift cipher custom module](https://github.c
 
 database>>
 ```
-kyle_bulloch_cipher.db
+kyle_bulloch_cipher.sql.gz
 username: epicodus
 password: epicodus
 ```
